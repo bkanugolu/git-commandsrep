@@ -1,3 +1,5 @@
+new line
+
 new text add
 
 my ftext file
